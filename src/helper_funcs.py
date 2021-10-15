@@ -1,9 +1,5 @@
 import pandas as pd
 
-#variables
-emergency = '12/11/2020'
-full_approval = '8/23/2021'
-
 # Functions
 def make_ratio(dataframe, dividend, divisor, new_colname):
     '''
